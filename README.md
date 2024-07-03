@@ -29,8 +29,8 @@ Additionally, the API integrates with [Ollama](https://www.ollama.com/) to gener
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/piyushkumar101/student_service.git
-    cd student_service
+    git clone https://github.com/piyushkumar101/student_service_with_ollama.git
+    cd student_service_with_ollama
     ```
 
 2. **Install dependencies**:
